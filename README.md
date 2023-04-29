@@ -7,7 +7,7 @@ Multi client chat application using Java Sockets
 - My incentive to build this kind of project is to practice building a multi-threaded server.
 
 ## Set Up
-- Run git clone on the command line / download the zip file from GitHub
+- Run git clone on the command line / download the zip file
 - In Cient.java file make sure to allow multiple instances: Run --> Edit Configuration --> Modify options --> check "allow multiple instances" --> Apply and OK
 - Run Server.java
 - Run Client.java as much as you want: that will determinant the number of clients in the chat
