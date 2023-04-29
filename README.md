@@ -8,7 +8,7 @@ Multi client chat application using Java Sockets
 
 ## Set Up
 - Run git clone on the command line / download the zip file
-- In Cient.java file make sure to allow multiple instances: Run --> Edit Configuration --> Modify options --> check "allow multiple instances" --> Apply and OK
+- In Cient.java file make sure to allow multiple instances: Run --> Edit Configurations --> Modify options --> check "allow multiple instances" --> Apply and OK
 - Run Server.java
 - Run Client.java as much as you want: that will determinant the number of clients in the chat
 
