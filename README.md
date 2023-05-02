@@ -1,5 +1,5 @@
 # Chat-App
-Multi client chat application using Java Sockets
+Multi threaded (multi client) chat application using Java Sockets
 
 ## Introduction
 - This project allows people to communicate with each other through chat
